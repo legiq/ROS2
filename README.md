@@ -6,4 +6,4 @@
 ### Исправленная карта ROS Time 1475767340.58:
 ![Screenshot](/goodMap.png)
 ### Запись работы алгоритма: 
-![Record](ROS2-record.mp4)
+![Record](/ROS2-record .mp4)
