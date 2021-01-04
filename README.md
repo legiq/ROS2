@@ -5,5 +5,4 @@
 ![Screenshot](/wrongMap.png)
 ### Исправленная карта ROS Time 1475767340.58:
 ![Screenshot](/goodMap.png)
-### Запись работы алгоритма:
-![Record](/ROS2-record.webm)
+### Запись работы алгоритма: ROS2-record.webm
